@@ -21,3 +21,16 @@ data.zip
 
 # Generated k-mer feature data
 data/processed/kmer_features/
+
+# Local NotebookLineage tracking state
+notebooks/.notebooklineage.json
+notebooks/.notebooklineage/
+
+# Generated experiment results
+results/
+notebooks/results/
+
+# Exclude local experiment reports and visualizations
+notebooks/amr_kmer_randomforest_lineage_report.html
+notebooks/random_forest_results.pdf
+notebooks/random_forest_results.png
