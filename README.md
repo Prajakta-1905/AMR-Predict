@@ -1,4 +1,4 @@
-# AMR-Genome-CNN
+# AMR-Predict
 # Predicting Ciprofloxacin Resistance in *Staphylococcus aureus* Using Machine Learning and DNA Language Models
 
 ### A comparative genomic machine learning study using Random Forest, DNABERT-2, and CNN with Attention-based Multiple Instance Learning
